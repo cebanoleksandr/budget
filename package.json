@@ -1,5 +1,6 @@
 {
   "name": "vue-budget",
+  "homepage": "https://cebanoleksandr.github.io/budget/",
   "version": "0.0.0",
   "private": true,
   "type": "module",
